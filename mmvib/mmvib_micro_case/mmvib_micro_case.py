@@ -57,7 +57,7 @@ default_params = {
             "type": "computation",
             "api_id": "TEACOS",
             "model_config": {
-                "input_esdl_file_path": ["test/Tholen-simple v04-26kW_output.esdl"],
+                "input_esdl_file_path": "test/Tholen-simple v04-26kW_output.esdl",
                 "output_esdl_file_path": "test/{}/TEACOS_output.esdl"
             }
         },
