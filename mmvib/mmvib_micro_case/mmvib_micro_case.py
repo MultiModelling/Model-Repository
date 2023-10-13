@@ -336,7 +336,7 @@ with DAG('mmvib_micro_case',
 
         return tg1
 
-    iters = 5
+    iters = 2
     prev = None
     for i in range(1,iters+1):
         item = group(i)
